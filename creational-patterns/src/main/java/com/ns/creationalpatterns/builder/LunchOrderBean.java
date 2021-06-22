@@ -7,7 +7,7 @@ public class LunchOrderBean {
 	private String dressing;
 	private String meat;
 	
-	private LunchOrderBean() {
+	public LunchOrderBean() {
 		
 	}
 
