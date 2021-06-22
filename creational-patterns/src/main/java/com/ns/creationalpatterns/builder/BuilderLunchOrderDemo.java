@@ -15,6 +15,10 @@ public class BuilderLunchOrderDemo {
 		System.out.println(lunchOrder.getDressing());
 		System.out.println(lunchOrder.getMeat());
 		
+		System.out.println("------------------------------------------------------------------------");
+		
+		System.out.println(lunchOrder);
+		
 		
 		
 	}
